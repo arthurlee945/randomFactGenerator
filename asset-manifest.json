@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fad032c6.css",
+    "main.js": "/static/js/main.89eba405.js",
+    "static/media/Ein2.png": "/static/media/Ein2.1c4a47139e8256e9de3b.png",
+    "static/media/paper-texture.jpg": "/static/media/paper-texture.5c0419974ed6933b5699.jpg",
+    "static/media/jojoface.svg": "/static/media/jojoface.2723d1feeb63c4f9947353895986181b.svg",
+    "static/media/jojomouth.svg": "/static/media/jojomouth.03c630f91bec3940eaef80ab9f0cd047.svg",
+    "static/media/topface.svg": "/static/media/topface.5c5363daaa8a8a5616d06e20f824d0a3.svg",
+    "static/media/topsurprised.svg": "/static/media/topsurprised.e35bee19c03f3f3c3fe414cd09c470a5.svg",
+    "static/media/topclosed.svg": "/static/media/topclosed.f7ed24934ca37e2e7d6c5256875736e4.svg",
+    "static/media/mouth.svg": "/static/media/mouth.68fcb328e555c18150633871d7059469.svg",
+    "static/media/chestv2.svg": "/static/media/chestv2.f97646197d58430b7c4960fa3f3fb1ea.svg",
+    "static/media/chin.svg": "/static/media/chin.fc8d40b8bf10f91e08ce14c9c6bb04ad.svg",
+    "static/media/pointv2.svg": "/static/media/pointv2.49dd30ea557582a32a96e78e2d3c7556.svg",
+    "static/media/arm.svg": "/static/media/arm.067119c99cbdf9274392ed55d8cec90a.svg",
+    "static/media/mouthsurprised.svg": "/static/media/mouthsurprised.6a55d555a772ff9f78467a17939e98a6.svg",
+    "static/media/leg.svg": "/static/media/leg.8d684f9062c5e005d3420aeefffb3bb7.svg",
+    "static/media/beard.svg": "/static/media/beard.a152cd82391155db52b00ba72815b214.svg",
+    "static/media/ear.svg": "/static/media/ear.832c804fa45aaeab45a54f4115aa5f47.svg",
+    "index.html": "/index.html",
+    "main.fad032c6.css.map": "/static/css/main.fad032c6.css.map",
+    "main.89eba405.js.map": "/static/js/main.89eba405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad032c6.css",
+    "static/js/main.89eba405.js"
+  ]
+}

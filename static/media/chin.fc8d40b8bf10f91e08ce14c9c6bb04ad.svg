@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 255.0 350.0"
+	enable-background="new 0 0 255.0 350.0"
+	xml:space="preserve">
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="3.5700002"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M71.40,301.00C84.15,322.00,102.00,339.50,127.50,346.50C211.65,262.50,237.15,189.00,252.45,66.50"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="3.5700002"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M79.05,259.00C28.05,192.50,5.10,119.00,5.10,3.50"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="3.5700002"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M219.30,42.00C221.85,94.50,196.35,161.00,150.45,217.00M153.00,119.00C153.00,129.50,145.35,147.00,130.05,157.50C96.90,129.50,63.75,73.50,66.30,17.50"/>
+</svg>
